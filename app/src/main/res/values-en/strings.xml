@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">setting</string>
+    <string name="title_activity_add_item">add item</string>
+    <string name="add_item_hint">name of item</string>
+    <string name="add_item_submit">submit</string>
+    <string name="add_item_tip">input your item</string>
+    <string name="app_name">MyList</string>
+    <string name="title_activity_edit_item">edit item</string>
+</resources>

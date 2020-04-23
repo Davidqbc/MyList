@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">我的清单</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_item">新增待办事项</string>
+    <string name="title_activity_edit_item">编辑待办事项</string>
+    <string name="add_item_tip">请输入您的待办事项</string>
+    <string name="add_item_hint">待办事项名称</string>
+    <string name="add_item_submit">提交</string>
+</resources>
